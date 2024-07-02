@@ -8,8 +8,8 @@ La API SOAP de **Countries Data Provider** ofrece datos ficticios de diferentes 
 
 ## Tecnologías Utilizadas
 
-- Java 11
-- Spring Boot 2.5.0
+- Java 17
+- Spring Boot 3.1.0
 - Spring Web Services
 - Maven
 
